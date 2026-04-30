@@ -33,7 +33,7 @@ $dict->ExecuteSQLArray($sqlarray);
 #### What you typically do in method.install.php:
 
 - **Create permissions** — using `CreatePermission(name, description)`.
-- **Create database tables** — using the ADODB DataDictionary (see [Database Operations](/modules/database/)).
+- **Create database tables** — using the ADODB DataDictionary (see [Database Operations](/docs/database)).
 - **Set default preferences** — using `$this->SetPreference('key', 'value')`.
 - **Create events** — using `$this->CreateEvent('EventName')`.
 - **Register event handlers** — using `$this->AddEventHandler('ModuleName', 'EventName')`.
@@ -154,4 +154,4 @@ All three lifecycle files are executed within the scope of your module class:
 
 ### Next Steps
 
-Now that you understand the module lifecycle, continue to [Best Practices](/modules/module-basics/best-practices/) to learn the coding conventions and patterns every module should follow.
+Now that you understand the module lifecycle, continue to [Best Practices](/docs/module-basics/best-practices) to learn the coding conventions and patterns every module should follow.

@@ -108,4 +108,4 @@ $this->RemoveSmartyPlugin('holidays_count');
 
 ### Next Steps
 
-Continue to [Content Block Tags](/modules/smarty-tags/content-block-tags/) to learn how to create custom content block types that appear in the page editor.
+Continue to [Content Block Tags](/docs/smarty-tags/content-block-tags) to learn how to create custom content block types that appear in the page editor.

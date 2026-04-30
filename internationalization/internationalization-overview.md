@@ -4,5 +4,5 @@ CMSMS modules can be translated into any language through language files and the
 
 ### In This Chapter
 
-- [Language Files](/modules/internationalization/language-files/) — Creating and organizing language files for your module.
-- [Using Lang Strings](/modules/internationalization/using-lang-strings/) — Accessing translations in PHP and Smarty templates, and working with the Translation Center.
+- [Language Files](/docs/internationalization/language-files) — Creating and organizing language files for your module.
+- [Using Lang Strings](/docs/internationalization/using-lang-strings) — Accessing translations in PHP and Smarty templates, and working with the Translation Center.

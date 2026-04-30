@@ -48,4 +48,4 @@ The XML package contains:
 
 ### Next Steps
 
-Continue to [Module Info File (moduleinfo.ini)](/modules/cmsms-forge/module-info-file/) to learn about the metadata file that describes your module.
+Continue to [Module Info File (moduleinfo.ini)](/docs/cmsms-forge/module-info-file) to learn about the metadata file that describes your module.

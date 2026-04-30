@@ -92,7 +92,7 @@ This means frontend forms created with `{form_start}` are not CSRF-protected by 
 {form_end}
 ```
 
-To add CSRF protection to frontend forms, use the `{xt_form_csrf}` tag provided by the [CMSMSExt](https://forge.cmsmadesimple.org/projects/cmsmext/) module:
+To add CSRF protection to frontend forms, use the `{xt_form_csrf}` tag provided by the [CMSMSExt](https://forge.cmsmadesimple.org/projects/cmsmext) module:
 
 ```smarty
 {form_start action='submit_entry'}{xt_form_csrf}
@@ -121,4 +121,4 @@ if (!\xt_utils::valid_form_csrf()) {
 
 ### Next Steps
 
-Continue to [Securing (Escaping) Output](/modules/security/securing-output/) to learn how to prevent XSS vulnerabilities when displaying data.
+Continue to [Securing (Escaping) Output](/docs/security/securing-output) to learn how to prevent XSS vulnerabilities when displaying data.

@@ -4,6 +4,6 @@ The CMSMS Forge (dev.cmsmadesimple.org) is the official repository for sharing C
 
 ### In This Chapter
 
-- [Submitting Your Module](/modules/cmsms-forge/submitting-your-module/) — Preparing your module for distribution and submitting it to the Forge.
-- [Module XML Packaging](/modules/cmsms-forge/module-xml-packaging/) — How CMSMS packages modules into XML files for distribution through Module Manager.
-- [Module Info File (moduleinfo.ini)](/modules/cmsms-forge/module-info-file/) — The metadata file that describes your module to the Forge and Module Manager.
+- [Submitting Your Module](/docs/cmsms-forge/submitting-your-module) — Preparing your module for distribution and submitting it to the Forge.
+- [Module XML Packaging](/docs/cmsms-forge/module-xml-packaging) — How CMSMS packages modules into XML files for distribution through Module Manager.
+- [Module Info File (moduleinfo.ini)](/docs/cmsms-forge/module-info-file) — The metadata file that describes your module to the Forge and Module Manager.

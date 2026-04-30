@@ -142,4 +142,4 @@ $table = CMS_DB_PREFIX . 'mod_holidays';
 
 ### Next Steps
 
-Continue to [Creating Tables](/modules/database/creating-tables/) to learn how to use the DataDictionary for schema management.
+Continue to [Creating Tables](/docs/database/creating-tables) to learn how to use the DataDictionary for schema management.

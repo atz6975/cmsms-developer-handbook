@@ -226,4 +226,4 @@ All other action files follow the pattern `action.youractionname.php` and are ca
 
 ### Next Steps
 
-Continue to [Including a Software License](/modules/module-basics/including-a-software-license/) to learn about the licensing requirements for CMSMS modules.
+Continue to [Including a Software License](/docs/module-basics/including-a-software-license) to learn about the licensing requirements for CMSMS modules.

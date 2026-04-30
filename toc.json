@@ -27,7 +27,7 @@
       "path": "module-basics",
       "pages": [
         {
-          "title": "Module Basics",
+          "title": "Overview",
           "file": "module-basics/module-basics-overview.md",
           "description": "This chapter covers the fundamental building blocks of every CMSMS module: the required class methods that tell CMSMS about your module, the lifecycle files that handle installation and upgrades, the directory layout CMSMS expects, and the best practices that keep your code maintainable."
         },
@@ -64,7 +64,7 @@
       "path": "security",
       "pages": [
         {
-          "title": "Module Security",
+          "title": "Overview",
           "file": "security/security-overview.md",
           "description": "Security is not optional. Every module that accepts user input, displays data, or interacts with the database must implement proper security measures. A single vulnerability can compromise the entire site."
         },
@@ -273,7 +273,7 @@
       "path": "users",
       "pages": [
         {
-          "title": "Users and Permissions",
+          "title": "Overview",
           "file": "users/users-overview.md",
           "description": "CMSMS has a built-in system of admin users, groups, and permissions. Modules interact with this system to control access to their features and, in some cases, to manage users programmatically."
         },

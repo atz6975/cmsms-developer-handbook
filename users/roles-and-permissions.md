@@ -62,4 +62,4 @@ From outside a module context, use the `CmsPermission` class or check group memb
 
 ### Next Steps
 
-Continue to [Custom Permissions](/modules/users/custom-permissions/) to learn how to create and manage your own module permissions.
+Continue to [Custom Permissions](/docs/users/custom-permissions) to learn how to create and manage your own module permissions.

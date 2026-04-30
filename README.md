@@ -1,6 +1,6 @@
 # CMSMS Developer Handbook
 
-The official module development documentation for [CMS Made Simple](https://www.cmsmadesimple.org/), served at [developer.cmsmadesimple.org/docs](https://developer.cmsmadesimple.org/docs/).
+The official module development documentation for [CMS Made Simple](https://www.cmsmadesimple.org), served at [developer.cmsmadesimple.org/docs](https://developer.cmsmadesimple.org/docs).
 
 ## Contributing
 
@@ -46,7 +46,7 @@ On merge, the live site updates automatically — no manual deployment needed.
 
 ## Writing Guidelines
 
-- Use **standard Markdown** — the site renders it via [Parsedown](https://parsedown.org/)
+- Use **standard Markdown** — the site renders it via [Parsedown](https://parsedown.org)
 - Each chapter is a **directory** with an `index.md` landing page
 - Sub-pages are individual `.md` files in the chapter directory
 - Use **kebab-case** for file names: `admin-tabs-and-navigation.md`

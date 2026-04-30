@@ -6,11 +6,11 @@ This chapter covers the security mechanisms CMSMS provides and how to use them c
 
 ### In This Chapter
 
-- [Checking Permissions](/modules/security/checking-permissions/) — Control who can access your module's admin actions using the CMSMS permission system.
-- [Data Validation](/modules/security/data-validation/) — Verify that data meets your expectations before processing it.
-- [Nonces (CSRF Protection)](/modules/security/nonces/) — Protect forms and actions against cross-site request forgery attacks.
-- [Securing (Escaping) Output](/modules/security/securing-output/) — Prevent cross-site scripting (XSS) by escaping data before displaying it.
-- [Securing (Sanitizing) Input](/modules/security/securing-input/) — Clean and sanitize all input before using it in your module.
+- [Checking Permissions](/docs/security/checking-permissions) — Control who can access your module's admin actions using the CMSMS permission system.
+- [Data Validation](/docs/security/data-validation) — Verify that data meets your expectations before processing it.
+- [Nonces (CSRF Protection)](/docs/security/nonces) — Protect forms and actions against cross-site request forgery attacks.
+- [Securing (Escaping) Output](/docs/security/securing-output) — Prevent cross-site scripting (XSS) by escaping data before displaying it.
+- [Securing (Sanitizing) Input](/docs/security/securing-input) — Clean and sanitize all input before using it in your module.
 
 ### The Golden Rules
 

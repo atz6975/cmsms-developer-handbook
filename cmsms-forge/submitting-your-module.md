@@ -18,11 +18,11 @@ Before submitting your module to the Forge, ensure it meets the quality standard
 
 ### Using Module Check
 
-Run the [Module Check](/modules/developer-tools/module-check/) module against your module before submission. It performs automated checks for all of the above issues and more, giving you a score from 0–100 with specific findings.
+Run the [Module Check](/docs/developer-tools/module-check) module against your module before submission. It performs automated checks for all of the above issues and more, giving you a score from 0–100 with specific findings.
 
 ### Registering on the Forge
 
-1. Create an account on [dev.cmsmadesimple.org](https://dev.cmsmadesimple.org/).
+1. Create an account on [dev.cmsmadesimple.org](https://dev.cmsmadesimple.org).
 2. Register a new project for your module.
 3. Upload your module package (XML or ZIP).
 4. Provide a description, screenshots, and documentation.
@@ -37,4 +37,4 @@ Run the [Module Check](/modules/developer-tools/module-check/) module against yo
 
 ### Next Steps
 
-Continue to [Module XML Packaging](/modules/cmsms-forge/module-xml-packaging/) to learn how CMSMS packages modules for distribution.
+Continue to [Module XML Packaging](/docs/cmsms-forge/module-xml-packaging) to learn how CMSMS packages modules for distribution.

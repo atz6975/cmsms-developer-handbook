@@ -15,7 +15,7 @@ This chapter is for PHP developers who are new to CMS Made Simple module develop
 - A working knowledge of PHP and object-oriented programming, including classes, inheritance, and magic methods.
 - A basic understanding of relational databases, particularly MySQL.
 - Familiarity with how to work with CMSMS as a site administrator — creating pages, managing templates, and navigating the admin panel.
-- A basic understanding of the [Smarty template engine](https://www.smarty.net/docs/en/).
+- A basic understanding of the [Smarty template engine](https://www.smarty.net/docs/en).
 
 ### Learn by Building
 

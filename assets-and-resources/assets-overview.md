@@ -4,5 +4,5 @@ Modules often need static assets — stylesheets, JavaScript files, images, and 
 
 ### In This Chapter
 
-- [Loading CSS and JavaScript](/modules/assets-and-resources/loading-css-and-javascript/) — How to include stylesheets and scripts in admin actions and frontend templates.
-- [Images and Icons](/modules/assets-and-resources/images-and-icons/) — Working with admin theme icons, custom images, and Forge screenshots.
+- [Loading CSS and JavaScript](/docs/assets-and-resources/loading-css-and-javascript) — How to include stylesheets and scripts in admin actions and frontend templates.
+- [Images and Icons](/docs/assets-and-resources/images-and-icons) — Working with admin theme icons, custom images, and Forge screenshots.

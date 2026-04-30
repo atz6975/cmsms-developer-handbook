@@ -129,4 +129,4 @@ A full list of available Smarty plugins can be found in the CMSMS admin panel un
 
 ### Next Steps
 
-Continue to [Admin Templates](/modules/templates/admin-templates/) for conventions specific to admin panel templates.
+Continue to [Admin Templates](/docs/templates/admin-templates) for conventions specific to admin panel templates.

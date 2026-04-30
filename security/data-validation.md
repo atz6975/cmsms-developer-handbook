@@ -168,4 +168,4 @@ Pass errors to your Smarty template and display them to the user:
 
 ### Next Steps
 
-Continue to [Nonces (CSRF Protection)](/modules/security/nonces/) to learn how to protect your forms against cross-site request forgery.
+Continue to [Nonces (CSRF Protection)](/docs/security/nonces) to learn how to protect your forms against cross-site request forgery.

@@ -104,4 +104,4 @@ $tpl->assign('enable_comments', cms_to_bool($this->GetPreference('enable_comment
 
 ### Next Steps
 
-Continue to [Site and User Preferences](/modules/preferences/site-preferences/) to learn about site-wide and per-user preference storage.
+Continue to [Site and User Preferences](/docs/preferences/site-preferences) to learn about site-wide and per-user preference storage.

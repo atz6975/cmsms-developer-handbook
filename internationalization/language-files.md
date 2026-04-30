@@ -72,4 +72,4 @@ $lang['param_detailpage'] = 'Applicable only to the default action, this paramet
 
 ### Next Steps
 
-Continue to [Using Lang Strings](/modules/internationalization/using-lang-strings/) to learn how to access translations in your code and templates.
+Continue to [Using Lang Strings](/docs/internationalization/using-lang-strings) to learn how to access translations in your code and templates.

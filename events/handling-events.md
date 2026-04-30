@@ -134,4 +134,4 @@ $this->RemoveEventHandler('Core', 'ContentPostRender');
 
 ### Next Steps
 
-Continue to [Core Events Reference](/modules/events/core-events-reference/) for a list of events sent by the CMSMS core that your module can handle.
+Continue to [Core Events Reference](/docs/events/core-events-reference) for a list of events sent by the CMSMS core that your module can handle.

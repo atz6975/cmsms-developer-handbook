@@ -4,5 +4,5 @@ CMSMS has a built-in system of admin users, groups, and permissions. Modules int
 
 ### In This Chapter
 
-- [Roles and Permissions](/modules/users/roles-and-permissions/) — How the CMSMS permission system works, admin groups, and how permissions are checked.
-- [Custom Permissions](/modules/users/custom-permissions/) — Creating, checking, and removing module-specific permissions.
+- [Roles and Permissions](/docs/users/roles-and-permissions) — How the CMSMS permission system works, admin groups, and how permissions are checked.
+- [Custom Permissions](/docs/users/custom-permissions) — Creating, checking, and removing module-specific permissions.

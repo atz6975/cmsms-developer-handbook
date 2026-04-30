@@ -6,8 +6,8 @@ By the end of this chapter you will have a fully installable module skeleton wit
 
 ### In This Chapter
 
-- [Header Requirements](/modules/module-basics/header-requirements/) — The CMSModule methods every module must override to identify itself to the system.
-- [Install / Uninstall / Upgrade Methods](/modules/module-basics/install-uninstall-upgrade/) — Lifecycle files that create tables, permissions, and preferences on install, remove them on uninstall, and migrate data on upgrade.
-- [Best Practices](/modules/module-basics/best-practices/) — Coding conventions, security checks, and patterns that every module should follow.
-- [Module Directories and Paths](/modules/module-basics/module-directories-and-paths/) — The standard directory layout and how to reference paths within your module.
-- [Including a Software License](/modules/module-basics/including-a-software-license/) — License requirements for CMSMS modules and how to include them.
+- [Header Requirements](/docs/module-basics/header-requirements) — The CMSModule methods every module must override to identify itself to the system.
+- [Install / Uninstall / Upgrade Methods](/docs/module-basics/install-uninstall-upgrade) — Lifecycle files that create tables, permissions, and preferences on install, remove them on uninstall, and migrate data on upgrade.
+- [Best Practices](/docs/module-basics/best-practices) — Coding conventions, security checks, and patterns that every module should follow.
+- [Module Directories and Paths](/docs/module-basics/module-directories-and-paths) — The standard directory layout and how to reference paths within your module.
+- [Including a Software License](/docs/module-basics/including-a-software-license) — License requirements for CMSMS modules and how to include them.

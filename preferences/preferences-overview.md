@@ -4,5 +4,5 @@ CMSMS provides three levels of preferences storage for modules: module preferenc
 
 ### In This Chapter
 
-- [Module Preferences API](/modules/preferences/module-preferences-api/) — Store and retrieve settings scoped to your module using the CMSModule convenience methods.
-- [Site and User Preferences](/modules/preferences/site-preferences/) — Work with site-wide preferences and per-admin-user preferences using the cms\_siteprefs and cms\_userprefs classes.
+- [Module Preferences API](/docs/preferences/module-preferences-api) — Store and retrieve settings scoped to your module using the CMSModule convenience methods.
+- [Site and User Preferences](/docs/preferences/site-preferences) — Work with site-wide preferences and per-admin-user preferences using the cms\_siteprefs and cms\_userprefs classes.

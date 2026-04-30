@@ -33,7 +33,7 @@ Before writing new functionality, check whether CMSMS core or an existing module
 - Need file picking? Use the **FileManager** module.
 - Need WYSIWYG editing? Use the `{cms_textarea}` Smarty plugin — it automatically integrates with whatever WYSIWYG module is installed.
 
-The CMSMS API also provides utility functions for common tasks like database access, URL generation, cookie handling, and remote HTTP requests. Check the [API documentation](https://docs.cmsmadesimple.org/) before writing your own.
+The CMSMS API also provides utility functions for common tasks like database access, URL generation, cookie handling, and remote HTTP requests. Check the [API documentation](https://docs.cmsmadesimple.org) before writing your own.
 
 ### Security Checks in Every File
 

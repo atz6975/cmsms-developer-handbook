@@ -128,4 +128,4 @@ Messages set with `SetMessage()` and `SetError()` are displayed automatically by
 
 ### Next Steps
 
-Continue to [Frontend Templates](/modules/templates/frontend-templates/) for conventions specific to frontend output.
+Continue to [Frontend Templates](/docs/templates/frontend-templates) for conventions specific to frontend output.

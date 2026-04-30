@@ -4,6 +4,6 @@ Modules can register Smarty tags that content editors use in page templates and 
 
 ### In This Chapter
 
-- [Content Block Tags](/modules/smarty-tags/content-block-tags/) — Create custom content block types that appear in the page editor.
-- [Plugin Tags](/modules/smarty-tags/plugin-tags/) — Register your module as a Smarty tag and create additional custom Smarty plugins.
-- [Tag Parameters](/modules/smarty-tags/tag-parameters/) — Define, register, and document the parameters your tags accept.
+- [Content Block Tags](/docs/smarty-tags/content-block-tags) — Create custom content block types that appear in the page editor.
+- [Plugin Tags](/docs/smarty-tags/plugin-tags) — Register your module as a Smarty tag and create additional custom Smarty plugins.
+- [Tag Parameters](/docs/smarty-tags/tag-parameters) — Define, register, and document the parameters your tags accept.

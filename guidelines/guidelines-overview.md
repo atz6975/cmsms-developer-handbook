@@ -1,6 +1,6 @@
 ## Module Guidelines
 
-These guidelines define the standards every CMSMS module should meet before distribution. They are based on the 68 automated rules enforced by [Module Check](/modules/developer-tools/module-check/) and the [CMSMS Scanner](/modules/developer-tools/cmsms-scanner/).
+These guidelines define the standards every CMSMS module should meet before distribution. They are based on the 68 automated rules enforced by [Module Check](/docs/developer-tools/module-check) and the [CMSMS Scanner](/docs/developer-tools/cmsms-scanner).
 
 Each guideline includes a rule ID, severity level, explanation of why it matters, how to fix it, and code examples showing the wrong and right way.
 

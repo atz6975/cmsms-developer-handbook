@@ -122,4 +122,4 @@ Use descriptive filenames and keep file sizes reasonable (under 200KB each). JPG
 
 ### Next Steps
 
-This completes the Assets and Resources chapter. For a complete walkthrough of building a module from scratch, see the [Tutorial: Building a Holidays Module](/modules/tutorial/).
+This completes the Assets and Resources chapter. For a complete walkthrough of building a module from scratch, see the [Tutorial: Building a Holidays Module](/docs/tutorial).

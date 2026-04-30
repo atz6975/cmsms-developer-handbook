@@ -237,4 +237,4 @@ exit;
 
 ### Next Steps
 
-Continue to [Admin Tabs and Navigation](/modules/admin-interface/admin-tabs-and-navigation/) to learn how to create tabbed interfaces and customize your module's position in the admin navigation.
+Continue to [Admin Tabs and Navigation](/docs/admin-interface/admin-tabs-and-navigation) to learn how to create tabbed interfaces and customize your module's position in the admin navigation.

@@ -34,7 +34,7 @@ Before diving in, you should have:
 - A working CMS Made Simple 2.2.x installation (2.2.16 or later recommended).
 - PHP 8.2 or later.
 - Basic knowledge of PHP, HTML, and SQL.
-- Familiarity with the [Smarty template engine](https://www.smarty.net/docs/en/).
+- Familiarity with the [Smarty template engine](https://www.smarty.net/docs/en).
 - Access to the `modules/` directory on your CMSMS installation.
 
 ### Hands-On Tutorial
@@ -49,7 +49,7 @@ Throughout this handbook, you'll see references to the `CMSModule` base class �
 
 ### Getting Help
 
-- [CMSMS Forums](https://forum.cmsmadesimple.org/) — Community support and discussion.
-- [CMSMS Documentation](https://docs.cmsmadesimple.org/) — Official documentation wiki.
-- [CMSMS Forge](https://forge.cmsmadesimple.org/) — Module repository and issue tracking.
+- [CMSMS Forums](https://forum.cmsmadesimple.org) — Community support and discussion.
+- [CMSMS Documentation](https://docs.cmsmadesimple.org) — Official documentation wiki.
+- [CMSMS Forge](https://forge.cmsmadesimple.org) — Module repository and issue tracking.
 - [CMSMS on GitHub](https://github.com/cmsmadesimple) — Source code and contributions.

@@ -34,7 +34,7 @@ Parameters only need to be registered once — they apply to all frontend action
 
 ### Admin Parameter Registration
 
-Admin action parameters are not filtered through `SetParameterType()` — all submitted parameters appear in the `$params` array. However, you should still sanitize them manually in your action code (see [Securing Input](/modules/security/securing-input/)).
+Admin action parameters are not filtered through `SetParameterType()` — all submitted parameters appear in the `$params` array. However, you should still sanitize them manually in your action code (see [Securing Input](/docs/security/securing-input)).
 
 ### Documenting Parameters
 
@@ -135,4 +135,4 @@ protected function InitializeAdmin()
 
 ### Next Steps
 
-This completes the Smarty Tags chapter. Continue to [Module Preferences](/modules/preferences/) to learn how to store and retrieve module settings.
+This completes the Smarty Tags chapter. Continue to [Module Preferences](/docs/preferences) to learn how to store and retrieve module settings.

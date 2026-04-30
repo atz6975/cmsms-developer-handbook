@@ -42,7 +42,7 @@ echo 'Search: ' . htmlspecialchars($params['query'] ?? '', ENT_QUOTES, 'UTF-8');
 
 **Severity:** high
 
-User-controlled path segments enable directory traversal (../) to read/write/delete arbitrary files on the server.
+User-controlled path segments enable directory traversal (..) to read/write/delete arbitrary files on the server.
 
 **Fix:** Use basename() to strip path components, or realpath() + str\_starts\_with() to verify the resolved path stays within the allowed directory.
 

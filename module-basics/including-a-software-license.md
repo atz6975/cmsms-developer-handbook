@@ -84,4 +84,4 @@ If you fork another developer's module:
 
 ### Next Steps
 
-This completes the Module Basics chapter. You now have the foundation to build a well-structured, properly licensed CMSMS module. Continue to [Module Security](/modules/security/) to learn how to protect your module and its users.
+This completes the Module Basics chapter. You now have the foundation to build a well-structured, properly licensed CMSMS module. Continue to [Module Security](/docs/security/security-overview) to learn how to protect your module and its users.

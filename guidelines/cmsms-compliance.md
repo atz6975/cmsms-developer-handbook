@@ -440,7 +440,7 @@ Every CMSMS module must follow a standard folder structure. Required files inclu
 modules/MyModule/
 ├── MyModule.module.php
 └── lang/en_US.php
-(missing: method.install.php, method.uninstall.php, readme.md, docs/, assets/)
+(missing: method.install.php, method.uninstall.php, readme.md, docs/, assets)
 ```
 ```
 // Good

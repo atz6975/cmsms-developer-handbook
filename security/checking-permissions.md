@@ -103,4 +103,4 @@ Frontend actions typically do not require permission checks since they are publi
 
 ### Next Steps
 
-Continue to [Data Validation](/modules/security/data-validation/) to learn how to verify that incoming data meets your expectations.
+Continue to [Data Validation](/docs/security/data-validation) to learn how to verify that incoming data meets your expectations.

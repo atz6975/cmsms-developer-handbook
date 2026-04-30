@@ -4,7 +4,7 @@ CMSMS uses the Smarty template engine for all HTML output — both in the admin 
 
 ### In This Chapter
 
-- [Smarty Templates](/modules/templates/smarty-templates/) — How module templates work, loading and rendering, variable assignment, and useful Smarty plugins.
-- [Admin Templates](/modules/templates/admin-templates/) — Conventions and patterns for admin panel templates, including forms, lists, and the admin style guide.
-- [Frontend Templates](/modules/templates/frontend-templates/) — Summary and detail views, design considerations for distributable modules.
-- [Design Manager Integration](/modules/templates/design-manager/) — Register template types so admins can manage and customize your module's templates from the Design Manager.
+- [Smarty Templates](/docs/templates/smarty-templates) — How module templates work, loading and rendering, variable assignment, and useful Smarty plugins.
+- [Admin Templates](/docs/templates/admin-templates) — Conventions and patterns for admin panel templates, including forms, lists, and the admin style guide.
+- [Frontend Templates](/docs/templates/frontend-templates) — Summary and detail views, design considerations for distributable modules.
+- [Design Manager Integration](/docs/templates/design-manager) — Register template types so admins can manage and customize your module's templates from the Design Manager.

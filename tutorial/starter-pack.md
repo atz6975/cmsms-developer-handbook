@@ -112,14 +112,14 @@ Holidays/
 | `action.default.php` | The frontend summary view. Shows published holidays with links to detail pages. Supports `pagelimit` and `detailpage` parameters. |
 | `action.detail.php` | The frontend detail view. Displays a single holiday. Supports an alternate `detailtemplate` parameter for AJAX previews. |
 
-#### Model Classes (lib/)
+#### Model Classes (lib)
 
 | File | What it does |
 | --- | --- |
 | `class.HolidayItem.php` | Represents a single holiday record. Handles insert, update, delete, validation, and loading by ID. Uses parameterized queries throughout. |
 | `class.HolidayQuery.php` | Extends CmsDbQueryBase to query holidays with pagination and filtering. Returns an array of HolidayItem objects via GetMatches(). |
 
-#### Templates (templates/)
+#### Templates (templates)
 
 | File | What it does |
 | --- | --- |

@@ -180,7 +180,7 @@ Return `true` to prevent your module from being loaded into memory until it is a
 public function LazyLoadAdmin() { return true; }
 ```
 
-See the [Best Practices](/modules/module-basics/best-practices/) page for details on when lazy loading can and cannot be used.
+See the [Best Practices](/docs/module-basics/best-practices) page for details on when lazy loading can and cannot be used.
 
 ### The Lang File
 
@@ -195,7 +195,7 @@ $lang['admindescription'] = 'A module for managing and displaying holidays';
 $lang['ask_uninstall'] = 'Are you sure you want to uninstall the Holidays module? All holiday data will be permanently deleted.';
 ```
 
-CMSMS automatically reads this file the first time `Lang()` is called. See [Internationalization](/modules/internationalization/) for full details on language files and translations.
+CMSMS automatically reads this file the first time `Lang()` is called. See [Internationalization](/docs/internationalization) for full details on language files and translations.
 
 ### Complete Example
 
@@ -242,4 +242,4 @@ class Holidays extends CMSModule
 
 ### Next Steps
 
-With your module class defined, the next step is to create the lifecycle files that run when your module is installed, uninstalled, or upgraded. Continue to [Install / Uninstall / Upgrade Methods](/modules/module-basics/install-uninstall-upgrade/).
+With your module class defined, the next step is to create the lifecycle files that run when your module is installed, uninstalled, or upgraded. Continue to [Install / Uninstall / Upgrade Methods](/docs/module-basics/install-uninstall-upgrade).

@@ -261,4 +261,4 @@ This tutorial covered the fundamentals. Here are some ideas for extending the mo
 - **Design Manager integration** — Register template types so admins can customize templates from the admin panel.
 - **method.upgrade.php** — Add an upgrade routine for future schema changes.
 
-For reference on any of these topics, see the corresponding chapters in the [Module Handbook](/modules/).
+For reference on any of these topics, see the corresponding chapters in the [Module Handbook](/docs).

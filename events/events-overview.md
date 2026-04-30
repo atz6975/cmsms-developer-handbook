@@ -6,10 +6,10 @@ This is the same pattern known as "hooks" or "signals" in other CMS platforms.
 
 ### In This Chapter
 
-- [Sending Events](/modules/events/sending-events/) — Create and fire events from your module so other modules can react.
-- [Handling Events](/modules/events/handling-events/) — Listen for events from other modules or the CMSMS core and respond to them.
-- [Core Events Reference](/modules/events/core-events-reference/) — A reference of events sent by the CMSMS core that your module can handle.
-- [Hooks (HookManager)](/modules/events/hooks/) — The modern hook system introduced in CMSMS 2.2, supporting closures, priorities, and inline registration.
+- [Sending Events](/docs/events/sending-events) — Create and fire events from your module so other modules can react.
+- [Handling Events](/docs/events/handling-events) — Listen for events from other modules or the CMSMS core and respond to them.
+- [Core Events Reference](/docs/events/core-events-reference) — A reference of events sent by the CMSMS core that your module can handle.
+- [Hooks (HookManager)](/docs/events/hooks) — The modern hook system introduced in CMSMS 2.2, supporting closures, priorities, and inline registration.
 
 ### How Events Work
 

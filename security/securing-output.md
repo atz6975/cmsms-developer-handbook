@@ -72,7 +72,7 @@ The `escape` modifier with no arguments defaults to HTML escaping — converting
 
 There are cases where you intentionally output raw HTML:
 
-- **WYSIWYG content** — fields edited with a WYSIWYG editor (via `{cms_textarea}`) contain intentional HTML. Display these without escaping, but sanitize them on input instead (see [Securing Input](/modules/security/securing-input/)).
+- **WYSIWYG content** — fields edited with a WYSIWYG editor (via `{cms_textarea}`) contain intentional HTML. Display these without escaping, but sanitize them on input instead (see [Securing Input](/docs/security/securing-input)).
 - **Module-generated HTML** — HTML built by your own code (e.g., pagination links) does not need escaping since you control the content.
 
 ### Escaping in PHP
@@ -113,4 +113,4 @@ $plain = strip_tags($holiday->description);
 
 ### Next Steps
 
-Continue to [Securing (Sanitizing) Input](/modules/security/securing-input/) to learn how to clean data before storing or processing it.
+Continue to [Securing (Sanitizing) Input](/docs/security/securing-input) to learn how to clean data before storing or processing it.

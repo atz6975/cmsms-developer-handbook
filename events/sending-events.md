@@ -106,4 +106,4 @@ $this->RemoveEvent('HolidayAdded');
 
 ### Next Steps
 
-Continue to [Handling Events](/modules/events/handling-events/) to learn how to listen for and respond to events from other modules and the CMSMS core.
+Continue to [Handling Events](/docs/events/handling-events) to learn how to listen for and respond to events from other modules and the CMSMS core.

@@ -110,4 +110,4 @@ CMS_DB_PREFIX . 'mod_holidays_cats'  // Related table
 
 ### Next Steps
 
-Continue to [Schema Management](/modules/database/schema-management/) to learn how to handle schema migrations across versions and build reusable query classes.
+Continue to [Schema Management](/docs/database/schema-management) to learn how to handle schema migrations across versions and build reusable query classes.
