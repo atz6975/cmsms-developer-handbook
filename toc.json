@@ -341,7 +341,7 @@
       "description": "Many modules need to communicate with external services — payment gateways, email providers, analytics platforms, AI services, social media APIs, and more. T..."
     },
     {
-      "title": "Background Jobs",
+      "title": "Background Jobs (CmsJobManager)",
       "path": "background-jobs",
       "file": "background-jobs/background-jobs.md",
       "description": "CMSMS 2.2 introduced an asynchronous job system that allows modules to schedule background tasks — one-time jobs or recurring cron jobs. Jobs are managed by ..."

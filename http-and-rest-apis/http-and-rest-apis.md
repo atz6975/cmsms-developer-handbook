@@ -16,16 +16,16 @@ When your module connects to an external service, you must:
 2. **Display a notice in the admin panel.** On your module's settings page, include a visible disclaimer:
 
 ```html
-&lt;div class="pageoverflow"&gt;
-  &lt;p class="note"&gt;
-    &lt;strong&gt;External Service Disclaimer:&lt;/strong&gt; This module connects to the
+<div class="pageoverflow">
+  <p class="note">
+    <strong>External Service Disclaimer:</strong> This module connects to the
     Stripe payment processing service (https://stripe.com) to process payments.
     Customer payment information is transmitted securely to Stripe's servers.
     By using this module, you agree to Stripe's
-    &lt;a href="https://stripe.com/privacy" target="_blank"&gt;Privacy Policy&lt;/a&gt; and
-    &lt;a href="https://stripe.com/legal" target="_blank"&gt;Terms of Service&lt;/a&gt;.
-  &lt;/p&gt;
-&lt;/div&gt;
+    <a href="https://stripe.com/privacy" target="_blank">Privacy Policy</a> and
+    <a href="https://stripe.com/legal" target="_blank">Terms of Service</a>.
+  </p>
+</div>
 ```
 
 3. **Never send data to external services without the admin's knowledge.** If your module has optional integrations (e.g., analytics tracking), make them opt-in, not opt-out.
