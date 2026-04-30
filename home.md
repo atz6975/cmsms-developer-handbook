@@ -39,7 +39,7 @@ Before diving in, you should have:
 
 ### Hands-On Tutorial
 
-> **Note:** **New to CMSMS module development?** Start with the [Tutorial: Building a Holidays Module](/tutorial-start). It walks you through creating a complete module from scratch in 7 step-by-step chapters. Or grab the [Starter Pack](/starter-pack) to download and install the finished module immediately.
+> **Note:** **New to CMSMS module development?** Start with the [Tutorial: Building a Holidays Module](/docs/tutorial/tutorial-overview). It walks you through creating a complete module from scratch in 7 step-by-step chapters. Or grab the [Starter Pack](/docs/tutorial/starter-pack) to download and install the finished module immediately.
 
 ### How This Handbook Is Organized
 
